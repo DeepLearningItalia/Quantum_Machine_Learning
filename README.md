@@ -19,4 +19,5 @@ Per eseguire i codici presenti all'interno del corso avrete bisogno di:
 Tutta la codebase è pensata per essere eseguita su un Quantum Annealer, nello specifico quello proprietario di D-Wave. Il motivo di questa scelta risiede nel fatto che il ML non richiede necessariamente la soluzione ottima alla funzione obbiettivo per poter essere utilizzato in pratica, ed una piattaforma di adiabatic computing con abbastanza qubits può fin da subito essere impiegata per iniziare a risolvere i primi problemi pratici, anche al di fuori dalla sfera didattica. Per ulteriori dettagli rimando il video relativo dove spiego il motivo alla base della scelta del quantum annealer di D-Wave.
 
 Autore:
-Calogero Zarbo: calogerozarbo88@gmail.com
+
+Calogero Zarbo - calogerozarbo88@gmail.com
